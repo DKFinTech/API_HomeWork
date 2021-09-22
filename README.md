@@ -1,1 +1,3 @@
-# API_Homework
+# Financial Planning Homework:
+* In this homework we were asked to develop a prototype application. The goal is we want our members to assess their monthly personal finances, and also be able to focast a reasonably  good retirement plan. 
+* We were given a portfolio composed of cryptocurrencies, stocks and bonds. Then calculated how much the member has made from their savings. A MonteCarlo simmulation was run and I have outputed the results with in the code. 
